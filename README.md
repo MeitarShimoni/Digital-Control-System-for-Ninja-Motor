@@ -12,7 +12,7 @@ Implemented a timing mechanism to start and stop the motor based on predefined i
 Digital logic design, timing control, problem-solving, and hands-on experience with electronic components.
 
 ![Logic Level Schematic](images/Schematic.png)
-![System's Signals](images/Signals.png
+![System's Signals](images/Signals.png)
 ![Implementation](images/Implementation.png)
 
 
