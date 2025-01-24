@@ -44,4 +44,4 @@ The signals represent different stages of the system's operation:
 ### Implementation
 The final implementation integrates all components, ensuring accurate control of the blender's motor operation.
 
-![Implementation](images/Implementation.png)
+![Implementation](images/Implementation.pdf)
